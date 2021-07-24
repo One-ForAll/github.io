@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>IDEA上使用Git</title>
+      <link href="/2021/07/24/IDEA%E4%B8%8A%E4%BD%BF%E7%94%A8Git/"/>
+      <url>/2021/07/24/IDEA%E4%B8%8A%E4%BD%BF%E7%94%A8Git/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><blockquote><p>近况</p></blockquote><p>一直不太了解IDEA上使用Git，今天趁着星期六没别的事，看看网课了解了一下，<br>马上下星期就开始真正写项目了，期待期待，还有很多不会的东西，要靠自己去慢慢学！<br>现阶段前端太差，linux太差，后端只会点基础，什么dubbo，Zookeeper，SpringCloud都没学<br>更不要说数据结构算法了，先学学基础内容，实习期间，必把VUE学完，再学学后端一些框架。</p><p>点击查看<a href="https://cdn.jsdelivr.net/gh/NicknamedCoco/cdn/blog/git/idea%E4%B8%8A%E4%BD%BF%E7%94%A8git.txt">IDEA上使用Git</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Maven笔记</title>
       <link href="/2021/07/22/Maven%E7%AC%94%E8%AE%B0/"/>
       <url>/2021/07/22/Maven%E7%AC%94%E8%AE%B0/</url>
